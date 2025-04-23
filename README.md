@@ -1,4 +1,4 @@
-🗳️ Visualizing-Indian-Assembly-Elections
+#Visualizing-Indian-Assembly-Elections
 This project provides a comprehensive visual analysis of Indian Assembly Elections using electoral data across states and parties. It focuses on understanding voting behavior, party performance, and election trends across regions, with a spotlight on Andhra Pradesh. This visualization project is useful for political analysts, policy-makers, and the general public interested in electoral insights.
 
 ✨ Key Highlights of the Project
